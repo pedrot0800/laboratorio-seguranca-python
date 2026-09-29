@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+*.eml
+*.log
+log.txt
+dados_teste/*
+!dados_teste/README.md
+resultados/*
+!resultados/README.md
