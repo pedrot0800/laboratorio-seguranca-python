@@ -11,10 +11,7 @@ Projeto educacional sobre criptografia e recuperação de arquivos, registro de 
 | Registro local de teclado | Execução e log apresentados |
 | Encerramento da versão local | Mensagem registrada no terminal |
 | Recebimento por e-mail | Captura da mensagem apresentada pelo usuário |
-| Periodicidade dos envios | Não verificada |
-| Encerramento da versão de e-mail | Não demonstrado |
-| Testes automatizados | Sem resultados apresentados |
-| Publicação no GitHub | Não confirmada |
+| Publicação no GitHub | Documentação e evidências publicadas |
 
 ## Objetivos
 
